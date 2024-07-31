@@ -50,7 +50,7 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 1. Clone Frontend repository: `https://github.com/NeelamRawath`
 2. Clone Backend Repository: `https://github.com/NeelamRawath`
-3. Change directory Frontend:`cd shopwithzosh`
+3. Change directory Frontend
 4. Change directory Backend: `cd e-commerce-server`
 5. Install frontend dependencies: `npm install`
 6. Install backend dependencies
