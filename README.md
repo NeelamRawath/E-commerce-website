@@ -66,7 +66,4 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
